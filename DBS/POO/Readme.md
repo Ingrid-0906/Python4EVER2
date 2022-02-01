@@ -14,4 +14,8 @@ A script created to simulate a bank application.
 
 #### Deck.py
 A script to simulate a random card game.
-Note. I do not used Machine Learning Algorithm, this is a pure python script.
+
+<br>
+Note. 
+<br>
+The code did not used Machine Learning Algorithm, this is a pure python script.
